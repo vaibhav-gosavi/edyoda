@@ -1,3 +1,5 @@
+// this is a program to create a superclass and sub class 
+// creating methods and calling the method one by one
 import java.util.Scanner;
 public class superandsub {
     Scanner sc=new Scanner(System.in);
