@@ -1,3 +1,4 @@
+// thisjust a comment 
 import java.util.Scanner;
 public class superandsub {
     Scanner sc=new Scanner(System.in);
